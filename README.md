@@ -49,7 +49,7 @@ The Streamlit app (`app.py`) allows users to input wine features through sliders
 
 The app is deployed using **Streamlit Community Cloud**.
 
-### 🔗 [Live Demo](https://krishnasah206-wine-quality-prediction-app-hhxmro.streamlit.app/) *(update this link after deployment)*
+### 🔗 [Live Demo](https://krishnasah206-wine-quality-prediction-app-hhxmro.streamlit.app/) -> https://krishnasah206-wine-quality-prediction-app-hhxmro.streamlit.app/
 
 ---
 
