@@ -1,4 +1,3 @@
-```markdown
 # 🍷 Wine Quality Prediction Web App
 
 This is a machine learning web app built using **K-Nearest Neighbors (KNN)** algorithm to predict the quality of wine based on various chemical features. The web app is developed with **Streamlit** and deployed on **Streamlit Community Cloud**.
@@ -50,7 +49,7 @@ The Streamlit app (`app.py`) allows users to input wine features through sliders
 
 The app is deployed using **Streamlit Community Cloud**.
 
-### 🔗 [Live Demo](https://your-streamlit-deployment-link) *(update this link after deployment)*
+### 🔗 [Live Demo](https://krishnasah206-wine-quality-prediction-app-hhxmro.streamlit.app/) *(update this link after deployment)*
 
 ---
 
